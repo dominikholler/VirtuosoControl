@@ -21,12 +21,14 @@ PRODUCT_IDS = {
     0x0a3e: "Wireless",
     0x0a3f: "Wireless",
     0x0a42: "Wireless",
+    0x0a46: "Wireless",
     0x0a4a: "Wireless",
     0x0a63: "Wireless",
     
     # Wired Connections / Direct USB headsets
     0x0a3d: "Wired",
     0x0a41: "Wired",
+    0x0a45: "Wired",
     0x0a49: "Wired",
     0x0a62: "Wired"
 }
